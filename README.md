@@ -8,10 +8,10 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 * ✨ Interactive and user-friendly interface
 * 🏆 Automatic winner detection
 * 🔄 Restart/New Game button
-* <img width="1920" height="1020" alt="ticTacToe html - Personal - Microsoft​ Edge 03-07-2026 12_45_16" src="https://github.com/user-attachments/assets/118e9ea9-2188-4ad2-a496-aae709b7daa5" />
 
 <img width="1920" height="1020" alt="ticTacToe html - Personal - Microsoft​ Edge 03-07-2026 12_20_45" src="https://github.com/user-attachments/assets/e1e82439-1e50-4028-adbf-c1fc896b9e10" />
 
+ <img width="1920" height="1020" alt="ticTacToe html - Personal - Microsoft​ Edge 03-07-2026 12_45_16" src="https://github.com/user-attachments/assets/118e9ea9-2188-4ad2-a496-aae709b7daa5" />
 
 ## Technologies Used
 
